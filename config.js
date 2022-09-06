@@ -9,8 +9,8 @@ module.exports = {
         {
             "groupName": "maven",
             "matchDatasources": ["maven"],
-            "separateMajorMinor": false,
-            "separateMinorPatch": false,
+            "separateMajorMinor": true,
+            "separateMinorPatch": true,
             "fetchReleaseNotes": false
         },
         {
